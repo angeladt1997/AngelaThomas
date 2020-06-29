@@ -74,6 +74,7 @@ h1,h2,h4,{
 .group {
   display: flex;
   flex-direction: row;
+  justify-content: space-evenly;
 }
 
 
