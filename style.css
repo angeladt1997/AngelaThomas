@@ -62,3 +62,7 @@ h1,h2,h4,{
 .right{
   text-align:left;
 }
+
+body {
+  backgound-color: green;
+}
