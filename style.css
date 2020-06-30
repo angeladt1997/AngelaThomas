@@ -1,15 +1,17 @@
 /* the goal is to keep the whole website text wise kind of in the green and black spectrum*/
 header nav{
   display: flex;
+  flex-direction: row;
   justify-content: center space-evenly; 
-  background: grey;
+  background: #000;
   text-decoration: none;
   text-family: cursive;
+  text-color: #fff;
 }
   
 body {
   margin: 0;
-  background-color: limegreen;
+  background-color: grey;
 }
 
 h1,h2,h3,h4,h6{
