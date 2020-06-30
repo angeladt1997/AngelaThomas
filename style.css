@@ -5,6 +5,7 @@ header nav{
   background-color: darkgreen;
   margin-bottom: 40px;
   list-style: none;
+  text-decoration: none;
 }
   
 body {
