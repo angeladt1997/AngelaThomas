@@ -1,5 +1,9 @@
 /* the goal is to keep the whole website text wise kind of in the green and black spectrum*/
-
+header nav{
+  display: flex;
+  justify-content: center;
+}
+  
 
 h1,h2,h3,h4,h6{
   color:lightgreen;
@@ -21,7 +25,7 @@ a:link{
   color:darkgreen;
 }
 a:visited{
-  color:lime;
+  color:red;
 }
 a:hover{
   color:chartreuse;
