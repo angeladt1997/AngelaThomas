@@ -4,9 +4,13 @@ header nav{
   flex-direction: row;
   justify-content: center space-evenly; 
   background: #000;
-  text-decoration: none;
-  text-family: cursive;
-  text-color: #fff;
+  
+}
+
+header nav a{
+   text-family: cursive;
+   text-color: #fff;
+   text-decoration: none;
 }
   
 body {
