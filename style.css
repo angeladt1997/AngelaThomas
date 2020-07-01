@@ -80,7 +80,7 @@ h1,h2,h4,{
 }
 
 
-@media all and (min-width= 500px) {
+@media all and (min-width: 500px) {
   p {
     font-size: 18px;
     background-color: grey;
