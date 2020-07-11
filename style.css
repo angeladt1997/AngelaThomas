@@ -24,6 +24,10 @@ h1,h2,h3,h4,h6{
   
 }
 
+iframe{
+  padding: 50px;
+}
+
 /* this should center all of the images on the published page*/
 .center {
   display: block;
