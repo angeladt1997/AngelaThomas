@@ -29,6 +29,7 @@ iframe{
   margin-left: auto;
   margin-right: auto;
   margin-top: 50px;
+  border: 0px;
 }
 
 /* this should center all of the images on the published page*/
