@@ -1,0 +1,20 @@
+{
+  "name": "AngelaThomas",
+  "version": "1.0.0",
+  "description": "Beginning stages of creating the STUDIO6 website\r I believe I saw that I could describe what what was going on in my code here! The goal of this code is to create a webpage for the busines I'd like to start, STUDIO6. This is in the super first stages, so bare with me as its kinks are worked out!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angeladt1997/AngelaThomas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angeladt1997/AngelaThomas/issues"
+  },
+  "homepage": "https://github.com/angeladt1997/AngelaThomas#readme"
+}
