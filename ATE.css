@@ -10,21 +10,8 @@ nav {
   }
 
 img {
-    margin-top: 10%;
-    margin: auto;
     display: flex;
-    padding-top: 6%;
+    margin: auto;
+    margin-top: 4%;
 }
 
-ul {
-    display: flex;
-    flex-direction: column;
-    margin: auto;
-    margin-left: 44%;
-    font-size: small;
-}
-
-.projectHeader {
-    display: flex;
-    margin: auto;
-}

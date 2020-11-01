@@ -2,15 +2,27 @@ h1 {
     margin: auto;
     display: flex;
     justify-content: center;
-    margin-top: 12%;
+    margin-top: 6%;
 }
 
 nav {
-     
-}
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-evenly;
+    font-size: smaller;
+    padding-left: 2%;
+    text-align: center;
+  }
 
 img {
     margin: auto;
+    display: flex;
+}
+
+iframe {
+    margin:auto;
     display: flex;
 }
 
