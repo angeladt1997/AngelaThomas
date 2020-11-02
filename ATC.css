@@ -24,7 +24,19 @@ ul {
     font-size: small;
 }
 
-.projectHeader {
+.project {
     display: flex;
+    flex-direction: column;
     margin: auto;
+    float: left;
+    justify-content: space-between ;
+}
+
+body {
+    background-color: lightgray;
+}
+.projectImages {
+    display: flex;
+    flex-direction: column;
+    float: right;
 }
