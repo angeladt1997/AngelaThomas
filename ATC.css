@@ -29,7 +29,8 @@ ul {
     flex-direction: column;
     margin: auto;
     float: left;
-    justify-content: space-between ;
+    justify-content: space-between;
+    align-items: center ;
 }
 
 body {
@@ -39,4 +40,5 @@ body {
     display: flex;
     flex-direction: column;
     float: right;
+    align-items: center;
 }
