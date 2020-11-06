@@ -33,9 +33,7 @@ ul {
     align-items: center ;
 }
 
-body {
-    background-color: lightgray;
-}
+
 .projectImages {
     display: flex;
     flex-direction: column;
