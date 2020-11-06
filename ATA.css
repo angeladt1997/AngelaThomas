@@ -7,21 +7,21 @@ nav {
     font-size: smaller;
     padding-left: 2%;
     text-align: center;
-  }
+}
 
-  h2, h3, h6 {
+h2, h3, h6 {
       display: flex;
       margin: auto;
       justify-content: center;
       margin-top: 2%;
-  }
+}
 
-  img {
+img {
       display: flex;
       margin: auto;
       margin-top: 2% ;
-  }
+}
 
-  body {
+body {
     background-color: lightgray;
 }
