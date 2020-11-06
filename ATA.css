@@ -21,3 +21,7 @@ nav {
       margin: auto;
       margin-top: 2% ;
   }
+
+  body {
+    background-color: lightgray;
+}
