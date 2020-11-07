@@ -9,6 +9,19 @@ nav {
     text-align: center;
   }
 
+  a:link {
+    color: darkslateblue
+}
+
+a:visited {
+    color: purple
+}
+
+a:hover {
+    font-size: x-large;
+    color: darkblue
+}
+
 img {
     display: flex;
     margin: auto;
@@ -16,5 +29,11 @@ img {
 }
 
 body {
-  background-color: lightgray;
+  background-color: #94cc54;
+}
+
+b {
+  display: flex;
+  justify-content: center;
+  font-family: cursive;
 }

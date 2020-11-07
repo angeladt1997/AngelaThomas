@@ -16,6 +16,19 @@ nav {
     text-align: center;
   }
 
+  a:link {
+    color: darkslateblue
+}
+
+a:visited {
+    color: purple
+}
+
+a:hover {
+    font-size: x-large;
+    color: darkblue
+}
+
 img {
     margin: auto;
     display: flex;
@@ -24,10 +37,11 @@ img {
 iframe {
     margin:auto;
     display: flex;
+    margin-bottom: 10%;
 }
 
 body {
-    background-color: lightgray;
+    background-color: #afd97e;
 }
 
 h4 {
@@ -35,4 +49,10 @@ h4 {
     display: flex;
     justify-content: center;
     margin-top: 12%;
+}
+
+b {
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
 }

@@ -47,6 +47,19 @@ h3 {
   
 }
 
+a:link {
+  color: darkslateblue
+}
+
+a:visited {
+  color: purple
+}
+
+a:hover {
+  font-size: x-large;
+  color: darkblue
+}
+
 img {
   display: flex;
   margin: auto;
@@ -57,9 +70,9 @@ input {
   margin-left: 10%;
   width: 8em;
   margin: auto;
-
 }
 
 body {
-  background-color: lightgray;
+  background-color: #c2dba4;
 }
+
